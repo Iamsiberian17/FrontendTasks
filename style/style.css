@@ -81,6 +81,7 @@ body {
     justify-content: space-around;
     align-items: center;
     color: white;
+    padding: 0 10px;
 }
 
 .menu__list-item:nth-child(1) {
